@@ -1,10 +1,11 @@
 # cakephp-dev-env-docker
 
+[spiktikn/cakephp-dev-env - Docker Hub](https://hub.docker.com/r/spiktikn/cakephp-dev-env)
+
 CakePHPの開発環境のサンプルです。
 
-- [Docker Hub - spiktikn/cakephp-dev-env](https://hub.docker.com/r/spiktikn/cakephp-dev-env)
-
 バージョンは以下のようにしていますが、適宜変更してください。
+
 |                | バージョン        |
 | :------------- | :---------------- |
 | ベースイメージ | php:7.3.30-buster |
