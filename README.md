@@ -4,8 +4,6 @@ CakePHPの開発環境のサンプルです。
 
 - [Docker Hub - spiktikn/cakephp-dev-env](https://hub.docker.com/r/spiktikn/cakephp-dev-env)
 
-<br>
-
 バージョンは以下のようにしていますが、適宜変更してください。
 |                | バージョン        |
 | :------------- | :---------------- |
